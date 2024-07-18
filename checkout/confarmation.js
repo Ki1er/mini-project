@@ -5,7 +5,6 @@ function showConfirmation() {
 
     // Attach click event listener to the "OK" button
     document.getElementById('okButton').addEventListener('click', function() {
-        // Navigate to another webpage (replace 'https://example.com' with your desired URL)
         window.location.href = '..\index(main-Page)\index.html';
     });
 }

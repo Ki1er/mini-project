@@ -68,6 +68,8 @@ let initializeSlider = (sectionNumber) => {
     navbar.classList.toggle('active');
     menuBtn.classList.toggle('fa-xmark');
   });
+
+  
   // scroll-to-top
 document.addEventListener("DOMContentLoaded", function () {
   var scrollToTopBtn = document.getElementById("scrollToTopBtn");
